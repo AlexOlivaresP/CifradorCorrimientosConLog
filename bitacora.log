@@ -1,0 +1,13 @@
+2023-03-28 20:29:57,057 | DEBUG:Iniciando programa | MainThread | <module> | 67|
+2023-03-28 20:29:57,057 | DEBUG:Leyendo archivo | MainThread | <module> | 68|
+2023-03-28 20:30:00,729 | DEBUG:Dividiendo texto en 2 | MainThread | <module> | 80|
+2023-03-28 20:30:00,732 | DEBUG:Iniciando executor de hilos | MainThread | <module> | 87|
+2023-03-28 20:30:00,740 | DEBUG:Ejecutando hilo virtual | MainThread | <module> | 95|
+2023-03-28 20:30:00,742 | DEBUG:Conectando con VM... | ThreadPoolExecutor-0_0 | vm | 57|
+2023-03-28 20:30:00,742 | DEBUG:Ejecutando hilo local | MainThread | <module> | 98|
+2023-03-28 20:30:00,776 | DEBUG:Obteniendo resultado de hilo virtual | MainThread | <module> | 103|
+2023-03-28 20:30:02,986 | DEBUG:Obteniendo resultado de hilo local | MainThread | <module> | 106|
+2023-03-28 20:30:02,986 | DEBUG:Fin de executor de hilos | MainThread | <module> | 112|
+2023-03-28 20:30:03,042 | DEBUG:Archivo Cifrados.txt guardado con exito | MainThread | <module> | 118|
+2023-03-28 20:30:06,701 | DEBUG:Archivo descifrado.txt guardado con exito | MainThread | <module> | 135|
+2023-03-28 20:30:06,702 | DEBUG:Fin del programa | MainThread | <module> | 142|
